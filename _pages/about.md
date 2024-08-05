@@ -12,6 +12,7 @@ Hi, I'm Cheng-Nan Liu, a highly motivated third-year Ph.D. student in Department
     <div class="slides">
         <div class="slide"><img src="images/Figure_2_revise_final.png" alt="Photo 1"></div>
         <div class="slide"><img src="images/Figure_4_Vs_Final.png" alt="Photo 2"></div>
+        <div class="slide"><img src="images/event_2024-02-29T04:14:50.280555Z.png" alt="Photo 3"></div>
         <!-- <div class="slide"><img src="assets/photo3.jpg" alt="Photo 3"></div> -->
         <!-- Add more slides as needed -->
     </div>
