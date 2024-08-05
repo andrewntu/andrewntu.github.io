@@ -8,6 +8,7 @@ layout: compress
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
     {% include head/custom.html %}
   </head>
 
@@ -26,6 +27,6 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
+    <script src="{{ site.baseurl }}/assets/js/scripts.js" defer></script>
   </body>
 </html>
