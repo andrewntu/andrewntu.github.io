@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geology & Geophysics, University of Utah, 2026 (expected)
+* M.S. in Geoscience, National Taiwan University, 2019
+* B.S. in Earth Science, National Cheng Kung University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* May. 2024 - Aug. 2024: Research Intern
+  * Lawrence Berkeley National Laboratory
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* Jan. 2019 - Jul. 2021: Research Assistant
+  * Institute of Earth Science, Academia Sinica
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
