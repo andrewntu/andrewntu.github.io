@@ -14,10 +14,6 @@ Hi, I'm Cheng-Nan Liu, a highly motivated third-year Ph.D. student in Department
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -26,10 +22,10 @@ Hi, I'm Cheng-Nan Liu, a highly motivated third-year Ph.D. student in Department
             <img src="{{ site.url }}{{ site.baseurl }}/images/Figure_2_revise_final.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/images/Figure_4_Vs_Final.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Figure_4_Vs_Final.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/event_2024-02-29T04:14:50.280555Z.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/event_2024-02-29T04:14:50.280555Z.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
