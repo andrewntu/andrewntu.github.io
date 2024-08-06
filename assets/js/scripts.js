@@ -17,10 +17,6 @@ function moveSlide(step) {
     showSlide(currentSlide + step);
 }
 
-// Auto slide functionality (optional)
-setInterval(() => {
-    moveSlide(1);
-}, 5000); // Change slide every 5 seconds
 
 document.addEventListener('DOMContentLoaded', () => {
     showSlide(currentSlide);
