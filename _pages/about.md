@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Cheng-Nan Liu, a highly motivated third-year Ph.D. student in Department of Geology & Geophysics at the University of Utah. Possessing with **7 years of experience in time series data analysis and machine learning**. Proven track record in developing advanced models for Earth Science tasks. Skilled in independent research and collaboration, with multiple publications in top geophysical journals. My major interests are Ambient Noise Tomography and Hydrothermal System Monitoring.
+Hi, I'm Cheng-Nan Liu, a highly motivated third-year Ph.D. student in Department of Geology & Geophysics at the University of Utah. Possessing with **7 years of experience in time series data analysis and machine learning**. Proven track record in developing advanced models for Earth Science tasks. Skilled in independent research and collaboration, with multiple publications in top geophysical journals. My major interests are **Ambient Noise Tomography** and **Hydrothermal System Monitoring**.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->

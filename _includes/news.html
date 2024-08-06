@@ -1,0 +1,12 @@
+<div class="news">
+    <h2>Latest News</h2>
+    <ul>
+        {% assign news_items = site.data.news | slice: 0, 8 %}
+        {% for item in news_items %}
+        <li>
+            <strong>{{ item.date | date: "%B %Y" }}:</strong> {{ item.description }}
+        </li>
+        {% endfor %}
+    </ul>
+    <p><a href="{{ site.baseurl }}/news/">...and more</a></p>
+</div>
