@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Website!!"
+title: "Welcome to Cheng-Nan's Website!!"
 author_profile: true
 redirect_from: 
   - /about/
