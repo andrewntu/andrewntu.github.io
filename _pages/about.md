@@ -21,7 +21,8 @@ Hi, I'm **Cheng-Nan Liu**, a highly motivated third-year Ph.D. student in the De
             <img src="{{ site.url }}{{ site.baseurl }}/images/Figure_2_revise_final.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Figure_4_Vs_Final.png" alt="Slide 2" />
+            <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/Figure_4_Vs_Final.png" alt="Slide 2" /> -->
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Figure_4_Vs_Final.png" style="width: 300px; height: 200px; object-fit: cover;" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/event_2024-02-29T04:14:50.280555Z.png" alt="Slide 3" />
