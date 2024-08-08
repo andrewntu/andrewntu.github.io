@@ -40,7 +40,7 @@ Hi, I'm **Cheng-Nan Liu**, a highly motivated third-year Ph.D. student in the De
       </a>
     </div>
   </div>
-  <div class="col-md-4">
+  <!-- <div class="col-md-4">
     {% include news.html %}
-  </div>
+  </div> -->
 </div>
