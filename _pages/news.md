@@ -1,10 +1,7 @@
 ---
-layout: archive
+layout: page
 title: News
 permalink: /news/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
 ## All News
