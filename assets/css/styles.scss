@@ -66,4 +66,10 @@
     border-top: 1px solid #dee2e6;
     text-align: center;
   }
-  
+  .carousel-inner img {
+    width: 100%; /* Ensures images fit within the carousel */
+    height: auto; /* Maintains aspect ratio */
+    max-height: 500px; /* Adjust this value to set a maximum height */
+    object-fit: cover; /* Ensures the image covers the container without distortion */
+  }
+    
