@@ -67,8 +67,8 @@
     text-align: center;
   }
   .carousel .carousel-inner img {
-    width: 10%; /* Ensures images fit within the carousel */
-    height: auto; /* Maintains aspect ratio */
-    max-height: 10px; /* Adjust this value to set a maximum height */
+    width: 30px;
+    height: 20px;
+    object-fit: cover;
   }
     
